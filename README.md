@@ -9,7 +9,7 @@ Implementation of the paper ''Attention Inspiring Receptive-fields Network'' (un
 * Install [torchvision>=0.2.0](http://pytorch.org/)
 * Clone recursively
   ```
-  git clone --recursive https://github.com/soeaver/pytorch-priv
+  git clone --recursive https://github.com/soeaver/AirNet-PyTorch
   ```
 
 ## Results
