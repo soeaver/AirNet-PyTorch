@@ -25,3 +25,15 @@ Single-crop (224x224) validation error rate is reported.
 | AirNeXt50-32x4d         | 5.29      | 25.5       | 20.90           | 5.48            |
 | AirNeXt101-32x4d (r=16) | 8.47      | 45.4       | 20.21           | 5.15            |
 | AirNeXt101-32x4d (r=2)  | 10.37     | 54.1       | 19.88           | 4.98            |
+
+
+## Other Resources
+
+** from [DPNs](https://github.com/cypw/DPNs)
+
+ImageNet-1k Trainig/Validation List:
+- Download link: [GoogleDrive](https://goo.gl/Ne42bM)
+
+ImageNet-1k category name mapping table:
+- Download link: [GoogleDrive](https://goo.gl/YTAED5)
+
