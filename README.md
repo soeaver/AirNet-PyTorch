@@ -34,6 +34,7 @@ Single-crop (224x224) validation error rate is reported.
 | Network                 | Flops (G) | Params (M) | Top-1 Error (%) | Top-5 Error (%) | Download |
 | :---------------------: | --------- |----------- | --------------- | --------------- | -------- |
 | AirNet50-1x64d          | 4.72      | 27.4       | 21.83           | 5.89            |          |
+| AirNet50-1x64d (r=16)   | 4.36      | 25.7       | 22.11           | 6.18            |          |
 | AirNet101-1x64d         | 9.23      | 27.6       | 20.68           | 5.45            |          |
 |                         |           |            |                 |                 |          |
 | AirNeXt50-32x4d         | 5.29      | 25.5       | 20.87           | 5.52            |          |
