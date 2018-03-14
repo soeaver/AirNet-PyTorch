@@ -3,6 +3,10 @@ Implementation of the paper ''Attention Inspiring Receptive-fields Network'' (un
 
 [Lu Yang](https://github.com/soeaver), Qing Song, Yingqi Wu and Mengjie Hu
 
+<p align="center">
+<img src="https://github.com/soeaver/AirNet-PyTorch/blob/master/images/air_bottleneck.png" width="480">
+</p>
+
 
 ## Install
 * Install [PyTorch>=0.3.0](http://pytorch.org/)
