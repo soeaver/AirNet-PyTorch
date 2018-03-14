@@ -17,19 +17,28 @@ Implementation of the paper ''Attention Inspiring Receptive-fields Network'' (un
   git clone --recursive https://github.com/soeaver/AirNet-PyTorch
   ```
 
+## Evaluation
+* Download the trained models, and move them to the `ckpts` folder.
+* Run the `eval.py`:
+  ```
+  python eval.py --gpu_id 0 --arch airnet50_1x64d --model_weights ./ckpts/air50_1x64d.pth
+  ```
+* The results will be consistent with the paper.
+
+
 ## Results
 
 ### ImageNet1k
 Single-crop (224x224) validation error rate is reported. 
 
-| Network                 | Flops (G) | Params (M) | Top-1 Error (%) | Top-5 Error (%) |
-| :---------------------: | --------- |----------- | --------------- | --------------- |
-| AirNet50-1x64d          | 4.72      | 27.4       | 21.83           | 5.89            |
-| AirNet101-1x64d         | 9.23      | 27.6       | 20.68           | 5.45            |
-|                         |           |            |                 |                 |
-| AirNeXt50-32x4d         | 5.29      | 25.5       | 20.87           | 5.52            |
-| AirNeXt101-32x4d (r=16) | 8.47      | 45.4       | 20.21           | 5.15            |
-| AirNeXt101-32x4d (r=2)  | 10.37     | 54.1       | 19.88           | 4.98            |
+| Network                 | Flops (G) | Params (M) | Top-1 Error (%) | Top-5 Error (%) | Download |
+| :---------------------: | --------- |----------- | --------------- | --------------- | -------- |
+| AirNet50-1x64d          | 4.72      | 27.4       | 21.83           | 5.89            |          |
+| AirNet101-1x64d         | 9.23      | 27.6       | 20.68           | 5.45            |          |
+|                         |           |            |                 |                 |          |
+| AirNeXt50-32x4d         | 5.29      | 25.5       | 20.87           | 5.52            |          |
+| AirNeXt101-32x4d (r=16) | 8.47      | 45.4       | 20.21           | 5.15            |          |
+| AirNeXt101-32x4d (r=2)  | 10.37     | 54.1       | 19.88           | 4.98            |          |
 
 
 ## Other Resources (from [DPNs](https://github.com/cypw/DPNs))
