@@ -5,6 +5,7 @@ Implementation of the paper ''Attention Inspiring Receptive-fields Network'' (un
 
 <p align="center">
 <img src="https://github.com/soeaver/AirNet-PyTorch/blob/master/images/air_bottleneck.png" width="480">
+<img src="https://github.com/soeaver/AirNet-PyTorch/blob/master/images/air_module.png" width="480">
 </p>
 
 
