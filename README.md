@@ -29,7 +29,7 @@ Single-crop (224x224) validation error rate is reported.
 
 ## Other Resources
 
-** from [DPNs](https://github.com/cypw/DPNs)
+**from [DPNs](https://github.com/cypw/DPNs)**
 
 ImageNet-1k Trainig/Validation List:
 - Download link: [GoogleDrive](https://goo.gl/Ne42bM)
