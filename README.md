@@ -38,7 +38,7 @@ Single-crop (224x224) validation error rate is reported.
 | AirNet101-1x64d         | 9.23      | 27.6       | 20.68           | 5.45            |          |
 |                         |           |            |                 |                 |          |
 | AirNeXt50-32x4d         | 5.29      | 25.5       | 20.87           | 5.52            | [GoogleDrive](https://drive.google.com/open?id=1xLcPHN1NCONtpDKNXDEIKhAn475mYD-L) |
-| AirNeXt101-32x4d (r=2)  | 10.37     | 54.1       | 19.88           | 4.98            |          |
+// | AirNeXt101-32x4d (r=2)  | 10.37     | 54.1       | 19.88           | 4.98            |          |
 
 
 ## Other Resources (from [DPNs](https://github.com/cypw/DPNs))
