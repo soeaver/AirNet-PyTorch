@@ -33,11 +33,11 @@ Single-crop (224x224) validation error rate is reported.
 
 | Network                 | Flops (G) | Params (M) | Top-1 Error (%) | Top-5 Error (%) | Download |
 | :---------------------: | --------- |----------- | --------------- | --------------- | -------- |
-| AirNet50-1x64d (r=16)   | 4.36      | 25.7       | 22.11           | 6.18            |          |
-| AirNet50-1x64d (r=2)    | 4.72      | 27.4       | 21.83           | 5.89            |          |
+| AirNet50-1x64d (r=16)   | 4.36      | 25.7       | 22.11           | 6.18            | [GoogleDrive](https://drive.google.com/open?id=1oUHnx8pw9YRJshN2biLoh_H1I4efoTWE) |
+| AirNet50-1x64d (r=2)    | 4.72      | 27.4       | 21.83           | 5.89            | [GoogleDrive](https://drive.google.com/open?id=1rOA9ciKbEKMkiDO3g3qY06goXZR9hO-Y) |
 | AirNet101-1x64d         | 9.23      | 27.6       | 20.68           | 5.45            |          |
 |                         |           |            |                 |                 |          |
-| AirNeXt50-32x4d         | 5.29      | 25.5       | 20.87           | 5.52            |          |
+| AirNeXt50-32x4d         | 5.29      | 25.5       | 20.87           | 5.52            | [GoogleDrive](https://drive.google.com/open?id=1xLcPHN1NCONtpDKNXDEIKhAn475mYD-L) |
 | AirNeXt101-32x4d (r=16) | 8.47      | 45.4       | 20.21           | 5.15            |          |
 | AirNeXt101-32x4d (r=2)  | 10.37     | 54.1       | 19.88           | 4.98            |          |
 
