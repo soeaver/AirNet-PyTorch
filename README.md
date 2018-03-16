@@ -1,5 +1,5 @@
 # AirNet-PyTorch
-Implementation of the paper ''Attention Inspiring Receptive-fields Network'' (under review), which contains the evaluation code and trained model by:
+Implementation of the paper ''Attention Inspiring Receptive-fields Network'' (under review), which contains the evaluation code and trained models. By:
 
 [Lu Yang](https://github.com/soeaver), Qing Song, Yingqi Wu and Mengjie Hu
 
@@ -12,9 +12,9 @@ Implementation of the paper ''Attention Inspiring Receptive-fields Network'' (un
 ## Install
 * Install [PyTorch>=0.3.0](http://pytorch.org/)
 * Install [torchvision>=0.2.0](http://pytorch.org/)
-* Clone recursively
+* Clone
   ```
-  git clone --recursive https://github.com/soeaver/AirNet-PyTorch
+  git clone https://github.com/soeaver/AirNet-PyTorch
   ```
 
 ## Evaluation
